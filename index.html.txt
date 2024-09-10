@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <tilte>chanagement</title>
+ </head>
+ <body>
+  <h2>Profile</h2>
+  <p>name:chani</p>
+  <p>age:16</p>
+ </body>
+</html>
